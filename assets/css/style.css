@@ -942,6 +942,10 @@ section {
     background-color: #16df7e;
 }
 
+.carousel .carousel-inner .carousel-item {
+    text-align: center;
+}
+
 
 /*--------------------------------------------------------------
 # Cta
